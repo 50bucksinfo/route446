@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello Friends!
+title: Raise your voice!
 tagline: We are only as strong as we are united, as weak as we are divided.
 ---
 {% include JB/setup %}
