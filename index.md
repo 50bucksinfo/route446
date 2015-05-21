@@ -23,6 +23,7 @@ Here's a my "posts list".
 
 ## To-Do
 
-This is just the initiative. Now it's up to us to take it further.
+This is just the initiative. Now it's up to you to take it further. 
+Please like the facebook page to hear more updates and share your thoughts.
 
 
