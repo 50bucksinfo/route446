@@ -7,7 +7,7 @@ tagline: We are only as strong as we are united, as weak as we are divided.
 
 Are you happy with the Route 446 services? Do you want to be heard?
 
-## Who am I and why I am doing this?
+## Who am I?
 
 I'm enthusiastic and passionate to work with community to help them solving their very own problems.
     
