@@ -7,9 +7,14 @@ tagline: We are only as strong as we are united, as weak as we are divided.
 
 Are you happy with the Route 446 services? Do you want to be heard?
 
-## Who am I?
+## Who are we?
 
-I'm enthusiastic and passionate to work with community to help them solving their very own problems.
+I'm enthusiastic and passionate to work with community to help them solving their very own problems. We can easily be identifed by our following core values.
+### Courage
+### Care
+### Togetherness
+### Trust
+### Happy
     
 ## My recent posts
 
