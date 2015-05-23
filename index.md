@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Raise your voice!
-tagline: We are only as strong as we are united, as weak as we are divided.
+title: "Raise your voice!"
+tagline: "We are only as strong as we are united, as weak as we are divided."
+published: true
 ---
+
 {% include JB/setup %}
 
 Are you happy with the Route 446 services? Do you want to be heard?
@@ -10,11 +12,11 @@ Are you happy with the Route 446 services? Do you want to be heard?
 ## Who are we?
 
 I'm enthusiastic and passionate to work with community to help them solving their very own problems. We can easily be identifed by our following core values.
-### Courage
-### Care
-### Togetherness
-### Trust
-### Happy
+## Courage
+## Care
+## Togetherness
+## Trust
+## Happy
     
 ## My recent posts
 
@@ -28,5 +30,3 @@ I'm enthusiastic and passionate to work with community to help them solving thei
 
 This is just the initiative. Now it's up to you to take it further. 
 Please like the facebook page to hear more updates and share your thoughts.
-
-
