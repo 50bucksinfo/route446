@@ -12,12 +12,14 @@ Are you happy with the Route 446 services? Do you want to be heard?
 ## Who are we?
 
 I'm enthusiastic and passionate to work with community to help them solving their very own problems. We can easily be identifed by our following core values.
-## Courage
-## Care
-## Togetherness
-## Trust
-## Happy
-    
+
+## Our Values
+- Courage
+- Care
+- Togetherness
+- Trust
+- Happy
+
 ## My recent posts
 
 <ul class="posts">
