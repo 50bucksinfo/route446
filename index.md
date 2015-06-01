@@ -21,9 +21,10 @@ We are enthusiastic and passionate volunteers working with community to help sol
 - Happy
 
 ## Next steps
+- Please like the facebook page to hear more updates and share your feedback.
+- Print and share <a href="files/Route446.v1.pdf">this page</a>.
 
 This is just the first step, rest depends on your interest and contribution.
-Please like the facebook page to hear more updates and share your thoughts.
 
 ## My recent posts
 
