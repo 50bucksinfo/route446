@@ -4,14 +4,14 @@ title: "Raise your voice!"
 tagline: "We are only as strong as we are united, as weak as we are divided."
 published: true
 ---
-
+<img src="images/route446.jpg" alt="A bus stop">
 {% include JB/setup %}
 
-Are you happy with the Route 446 services? Do you want to be heard?
+Are you happy with the Route 446 services? Share your feedback with us.
 
 ## Who are we?
 
-I'm enthusiastic and passionate to work with community to help them solving their very own problems. We can easily be identifed by our following core values.
+We are enthusiastic and passionate volunteers work with community to help them solving their very own problems. We can easily be identifed by our following core values.
 ## Courage
 ## Care
 ## Togetherness
