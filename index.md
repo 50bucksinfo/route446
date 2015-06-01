@@ -20,7 +20,7 @@ We are enthusiastic and passionate volunteers working with community to help sol
 - Trust
 - Happy
 
-## To-Do
+## Next steps
 
 This is just the first step, rest depends on your interest and contribution.
 Please like the facebook page to hear more updates and share your thoughts.
