@@ -12,12 +12,14 @@ Are you happy with the Route 446 services? Share your feedback with us.
 ## Who are we?
 
 We are enthusiastic and passionate volunteers work with community to help them solving their very own problems. We can easily be identifed by our following core values.
-## Courage
-## Care
-## Togetherness
-## Trust
-## Happy
-    
+
+## Our Values
+- Courage
+- Care
+- Togetherness
+- Trust
+- Happy
+
 ## My recent posts
 
 <ul class="posts">
