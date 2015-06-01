@@ -11,7 +11,7 @@ Are you happy with the Route 446 services? Share your feedback with us.
 
 ## Who are we?
 
-We are enthusiastic and passionate volunteers work with community to help them solving their very own problems. We can easily be identifed by our following core values.
+We are enthusiastic and passionate volunteers working with community to help solving their very local problems. We can easily be identifed by our following core values.
 
 ## Our Values
 - Courage
@@ -19,6 +19,11 @@ We are enthusiastic and passionate volunteers work with community to help them s
 - Togetherness
 - Trust
 - Happy
+
+## To-Do
+
+This is just the first step, rest depends on your interest and contribution.
+Please like the facebook page to hear more updates and share your thoughts.
 
 ## My recent posts
 
@@ -28,7 +33,3 @@ We are enthusiastic and passionate volunteers work with community to help them s
   {% endfor %}
 </ul>
 
-## To-Do
-
-This is just the initiative. Now it's up to you to take it further. 
-Please like the facebook page to hear more updates and share your thoughts.
