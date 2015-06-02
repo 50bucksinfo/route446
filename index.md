@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Break the silence!"
+title: "Let us talk!"
 tagline: "We are only as strong as we are united, as weak as we are divided."
 published: true
 ---
