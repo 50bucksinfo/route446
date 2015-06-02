@@ -1,13 +1,15 @@
 ---
 layout: page
-title: "Raise your voice!"
+title: "Break the silence!"
 tagline: "We are only as strong as we are united, as weak as we are divided."
 published: true
 ---
 <img src="images/route446.jpg" alt="A bus stop">
 {% include JB/setup %}
 
-Are you happy with the Route 446 services? Share your feedback with us.
+##Are you happy with the Route 446 services? 
+
+Please share your experience and feedback. Let it be very clear that we are not looking for gethering general crowd, however, we are keen to reach out passionate community leaders who can highlight the specific problems our community is facing using route 446 bus services. Give a shine to your community leadership skill.
 
 ## Who are we?
 
