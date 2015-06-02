@@ -53,7 +53,7 @@ You will be promoted to moderator of the website and facebook page once you have
 - Be proud of yourself.
 
 ## What if I want to share my experience with metro?
-You can reach to our <a href="https://www.facebook.com/pages/Williams-Landing/941750069179333">Williams Landing</a>.
+You can reach to our <a href="https://www.facebook.com/pages/Williams-Landing/941750069179333">Williams Landing</a> page.
 
 ## My recent posts
 
